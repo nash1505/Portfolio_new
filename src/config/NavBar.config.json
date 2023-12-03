@@ -1,0 +1,25 @@
+{
+    "links": [
+      {
+        "label": "Home",
+        "value": "home"
+      },
+      {
+        "label": "About",
+        "value": "about"
+      },
+      {
+        "label": "Skills",
+        "value": "skills"
+      },
+      {
+        "label": "Work",
+        "value": "work"
+      },
+      {
+        "label": "Contact",
+        "value": "contact"
+      }
+    ]
+  }
+  

@@ -1,0 +1,63 @@
+{
+  "experince": [
+    {
+      "position": "Senior Software Engineer",
+      "responsibilities": [
+        "Spearheaded the design and implementation of a Microfrontend architecture, revolutionizing the development process across teams.",
+        "Successfully isolated code for different teams, breaking down a large codebase into modular components for seamless integration, testing, and debugging.",
+        "Improved code practices company-wide by 20%-25% through the adoption of the Microfrontend architecture.",
+        "Collaborated with cross-functional teams to define technical requirements and ensure alignment with business goals."
+      ],
+      "company": "SecPod Technologies",
+      "durations": "Full time . 2yrs 6mos",
+      "location": "Bangalore Urban, Karnataka, India",
+      "from": "May-2023 - Present 8 mos",
+      "site": "On-site",
+      "skills":"Skills: TypeScript · D3.js · JavaScript · React.js"
+    },
+    {
+      "position": "Software Engineer",
+      "responsibilities": [
+        "Took ownership and led the development of multiple React applications from scratch, showcasing a deep understanding of scalable application architecture.",
+        "Solely managed the entire project lifecycle, from conception to deployment, showcasing leadership, technical expertise, and project management skills.",
+        "Collaborated with data analysts to develop a comprehensive application using the MERN stack (MongoDB, Express.js, React, Node.js).",
+        "Implemented dynamic technologies such as WebSockets for real-time connections, enhancing the application's responsiveness and user experience.",
+        "Created modular and reusable components for efficient deployment, utilizing Apache server on Linux for hosting."
+      ],
+      "company": "SecPod Technologies",
+      "durations": "Full time . 1yr 11mos",
+      "location": "Bangalore Urban, Karnataka, India",
+      "from": "Jul-2021 - May-2023",
+      "site": "On-site",
+      "skills":"Skills: HTML5 · JavaScript · Cascading Style Sheets (CSS) · React.js · Node.js · Express.js · MongoDB"
+    },
+    {
+      "position": "Web Development Intern",
+      "responsibilities": [
+        "Operate day‑to‑day functions of the department and follow all procedures",
+        "Creating and Maintaining API’s",
+        "Maintaining and generating new features"
+      ],
+      "company": "Dwebbox",
+      "durations": "Full time . 4mos",
+      "location": "Mumbai, Maharashtra, India",
+      "from": "Apr-2021 - Jul-2021",
+      "site": "Remote",
+      "skills":"Skills: HTML5 · JavaScript · Cascading Style Sheets (CSS) · React.js · Node.js · Express.js · MongoDB"
+    },
+    {
+      "position": "Web Development Intern",
+      "responsibilities": [
+        "Created and maintained clear, concise project plans and developed strategies to meet deadline",
+        "Write efficient, maintainable and reusable code prioritizing privacy and security",
+        "Collaborated with team for architectural decisions"
+      ],
+      "company": "Ovelosec",
+      "durations": "Full time . 4mos",
+      "location": "Kolkata, West Bengal, India",
+      "from": "Jan-2021 - Apr-2021",
+      "site": "Remote",
+      "skills":"Skills: HTML5 · JavaScript · Cascading Style Sheets (CSS)"
+    }
+  ]
+}

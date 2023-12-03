@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: Kanit;
+  src: url(./assets/fonts/Kanit/Kanit-Regular.ttf);
+}
+* {
+  font-family: kanit;
+  letter-spacing: 2px;
+}
